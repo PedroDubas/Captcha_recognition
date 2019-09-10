@@ -1,1 +1,3 @@
-Usar o "Captcha_Recognizer.ipynb" Para treinar o modelo, ele ira gerar um arquivo chamado "Melhor.HDF5"
+Usar o "Captcha_Recognizer_Train.ipynb" Para treinar o modelo, ele ira gerar um arquivo chamado "Melhor.HDF5"
+
+Usar o "Captcha_Recognizer_PLAY.ipynb" Para carregar os pesos gerados pelo "Captcha_Recognizer" e exibir o resultado.
