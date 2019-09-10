@@ -4,3 +4,7 @@ Usar o "Captcha_Recognizer_PLAY.ipynb" Para carregar os pesos gerados pelo "Capt
 
 
               ********* RECOMENDO USAR O PROCESSAMENTO POR GPU PELO GOOGLE COLAB *********
+
+Exemplo
+
+![alt text](https://github.com/PedroDubas/Captcha_recognition/blob/master/exemplo_img.png)
