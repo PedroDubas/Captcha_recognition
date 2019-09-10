@@ -1,1 +1,1 @@
-Captcha recognition
+Usar o "Captcha_Recognizer.ipynb" Para treinar o modelo, ele ira gerar um arquivo chamado "Melhor.HDF5"
